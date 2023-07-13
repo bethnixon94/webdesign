@@ -28,6 +28,27 @@ h1 {
     padding: 1rem;
 }
 
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 1rem;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 1rem;
+}
+
+h4 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 1rem;
+}
+
 #wrapper {
     margin: 0 auto;
     width: 1000px;
@@ -105,23 +126,6 @@ a:hover {
     position: center;
     padding-left: 1rem;
     font-size: 24px;
-}
-
-#subtitle {
-    font-family: 'Poppins', sans-serif;
-    position: center;
-}
-
-
-#subtitle 2 {
-    font-family: 'Poppins', sans-serif;
-    position: center;
-}
-
-
-#subtitle 3 {
-    font-family: 'Poppins', sans-serif;
-    position: center;
 }
 
 #tshirt {
