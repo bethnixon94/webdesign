@@ -140,7 +140,6 @@ a:hover {
 #p-one {
     background: #FFA70F;
     border-radius: 12px;
-    border: 2px solid #ebebeb;
     margin: 5px;
     float: center;
     width: 825px;
@@ -160,7 +159,6 @@ width: 1000px;
 height: 30px;
     background: #FFA70F;
     border-radius: 24px;
-    border: 2px solid #eb521f;
     margin: 4px;
     padding-bottom: 7rem;
     padding-top: 1rem;
