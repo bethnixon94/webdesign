@@ -30,7 +30,19 @@ h1 {
 
 h2 {
     font-family: 'Ysabeau Office', sans-serif;
-    font-size: 18px;
+    font-size: 16px;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Ysabeau Office', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Ysabeau Office', sans-serif;
+    font-size: 16px;
     text-align: center;
 }
 
