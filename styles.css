@@ -28,27 +28,6 @@ h1 {
     padding: 1rem;
 }
 
-h2 {
-    font-family: 'Poppins', sans-serif;
-    font-size: 14px;
-    display: inline-flex;
-    text-align: center;
-}
-
-h3 {
-    font-family: 'Poppins', sans-serif;
-    font-size: 14px;
-    text-align: center;
-    display: inline-flex;
-}
-
-h4 {
-    font-family: 'Poppins', sans-serif;
-    font-size: 14px;
-    text-align: center;
-    display: inline-flex;
-}
-
 #wrapper {
     margin: 0 auto;
     width: 1000px;
@@ -125,7 +104,7 @@ a:hover {
     border-radius: 12px;
     margin: 5px;
     line-height: 20px;
-    display: inline-flex;
+    position: center;
     padding-left: 1rem;
     font-size: 24px;
 }
