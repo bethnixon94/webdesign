@@ -79,6 +79,22 @@ h2 {
        
 }
 
+a:link {
+  color: green;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: yellow;
+}
+
 #contentwrap {
     width: 850px;
     float: left;
@@ -113,7 +129,9 @@ h2 {
 }
 
 
-
+p:hover, h1:hover, a:hover {
+  background-color: yellow;
+}
 
 
 #p-one-wrap {
