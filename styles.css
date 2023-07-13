@@ -107,6 +107,37 @@ a:hover {
     font-size: 24px;
 }
 
+#subtitle {
+    font-family: 'Poppins', sans-serif;
+    position: center;
+}
+
+
+#subtitle 2 {
+    font-family: 'Poppins', sans-serif;
+    position: center;
+}
+
+
+#subtitle 3 {
+    font-family: 'Poppins', sans-serif;
+    position: center;
+}
+
+#tshirt {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#bouncer {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#candles {
+    margin-left: auto;
+    margin-right: auto;
+}
 
 #leftcolumnwrap {
     width: 150px;
