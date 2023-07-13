@@ -95,6 +95,10 @@ a:active {
   color: yellow;
 }
 
+p:hover, h1:hover, a:hover {
+  background-color: yellow;
+}
+
 #contentwrap {
     width: 850px;
     float: left;
@@ -127,12 +131,6 @@ a:active {
     font-size: 16px;
 
 }
-
-
-p:hover, h1:hover, a:hover {
-  background-color: yellow;
-}
-
 
 #p-one-wrap {
     width: 850px;
