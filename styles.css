@@ -131,16 +131,22 @@ a:hover {
 #tshirt {
     margin-left: auto;
     margin-right: auto;
+    width: 150px
+    height: 150px
 }
 
 #bouncer {
     margin-left: auto;
     margin-right: auto;
+    width: 150px
+    height: 150px
 }
 
 #candles {
     margin-left: auto;
     margin-right: auto;
+    width: 150px
+    height: 150px
 }
 
 #leftcolumnwrap {
