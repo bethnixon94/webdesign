@@ -25,28 +25,24 @@ h1 {
     font-family: 'Ysabeau Office', sans-serif;
     font-size: 28px;
     text-align: center;
-    padding: 1rem;
 }
 
 h2 {
     font-family: 'Ysabeau Office', sans-serif;
     font-size: 18px;
     text-align: center;
-    padding: 1rem;
 }
 
 h3 {
     font-family: 'Ysabeau Office', sans-serif;
     font-size: 18px;
     text-align: center;
-    padding: 1rem;
 }
 
 h4 {
     font-family: 'Ysabeau Office', sans-serif;
     font-size: 18px;
     text-align: center;
-    padding: 1rem;
 }
 
 #wrapper {
@@ -126,27 +122,6 @@ a:hover {
     position: center;
     padding-left: 1rem;
     font-size: 24px;
-}
-
-#tshirt {
-    margin-left: auto;
-    margin-right: auto;
-    width: 8px;
-    height: 8px;
-}
-
-#bouncer {
-    margin-left: auto;
-    margin-right: auto;
-    width: 8px;
-    height: 8px;
-}
-
-#candle {
-    margin-left: auto;
-    margin-right: auto;
-    width: 8px;
-    height: 8px;
 }
 
 #leftcolumnwrap {
