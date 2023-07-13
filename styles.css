@@ -123,7 +123,7 @@ a:hover {
 }
 
 #leftcolumn {
-    background: #4AB7F7;
+    background: none;
     border-radius: 6px;
     margin: 1px;
     padding-top: 1.5rem;
@@ -174,9 +174,8 @@ height: 30px;
 }
 
 #sidecolumn {
-    background: #FFA70F;
+    background: #none;
     border-radius: 6px;
-    border: 1px solid #1fb8eb;
     margin: 1px;
     padding-top: 1.5rem;
     font-size: 16px;
