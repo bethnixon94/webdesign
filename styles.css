@@ -49,7 +49,6 @@ h2 {
     height: 30px;
     background: #FFA70F;
     border-radius: 24px;
-    border: 2px solid #eb521f;
     margin: 4px;
     padding-bottom: 7rem;
     padding-top: 1rem;
@@ -124,9 +123,8 @@ a:hover {
 }
 
 #leftcolumn {
-    background: #FFA70F;
+    background: #4AB7F7;
     border-radius: 6px;
-    border: 1px solid #1fb8eb;
     margin: 1px;
     padding-top: 1.5rem;
     font-size: 16px;
