@@ -95,8 +95,8 @@ a:active {
   color: yellow;
 }
 
-p:hover, h1:hover, a:hover {
-  background-color: gold;
+a:hover {
+  background-color: yellow;
 }
 
 #contentwrap {
@@ -106,7 +106,7 @@ p:hover, h1:hover, a:hover {
 }
 
 #content {
-    background: #91DAFF;
+    background: #FFA70F;
     border-radius: 12px;
     margin: 5px;
     line-height: 20px;
@@ -123,7 +123,7 @@ p:hover, h1:hover, a:hover {
 }
 
 #leftcolumn {
-    background: #33CCFF;
+    background: #FFA70F;
     border-radius: 6px;
     border: 1px solid #1fb8eb;
     margin: 1px;
@@ -139,7 +139,7 @@ p:hover, h1:hover, a:hover {
 }
 
 #p-one {
-    background: #91DAFF;
+    background: #FFA70F;
     border-radius: 12px;
     border: 2px solid #ebebeb;
     margin: 5px;
@@ -177,7 +177,7 @@ height: 30px;
 }
 
 #sidecolumn {
-    background: #33CCFF;
+    background: #FFA70F;
     border-radius: 6px;
     border: 1px solid #1fb8eb;
     margin: 1px;
