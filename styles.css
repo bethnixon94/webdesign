@@ -22,7 +22,7 @@ font-family: 'Ysabeau Office', sans-serif;
 }
 
 h1 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 28px;
     text-align: center;
     padding: 1rem;
@@ -131,22 +131,22 @@ a:hover {
 #tshirt {
     margin-left: auto;
     margin-right: auto;
-    width: 50px;
-    height: 50px;
+    width: 25px;
+    height: 25px;
 }
 
 #bouncer {
     margin-left: auto;
     margin-right: auto;
-    width: 50px;
-    height: 50px;
+    width: 25px;
+    height: 25px;
 }
 
 #candle {
     margin-left: auto;
     margin-right: auto;
-    width: 50px;
-    height: 50px;
+    width: 25px;
+    height: 25px;
 }
 
 #leftcolumnwrap {
