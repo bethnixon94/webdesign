@@ -75,7 +75,7 @@ h4 {
 
 #navigation {
     height: 40px;
-    background: #FFA70F;
+    background: #4AB7F7;
     border-radius: 10px;
     margin: 5px;
     text-align: left;
@@ -85,6 +85,7 @@ h4 {
     padding-bottom: 1rem;
     list-style: none;
     position: fixed;
+    float: center;
        
 }
 
