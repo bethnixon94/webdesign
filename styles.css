@@ -22,26 +22,15 @@ font-family: 'Ysabeau Office', sans-serif;
 
 h1 {
     font-family: 'Ysabeau Office', sans-serif;
-    font-size: 28px;
+    font-size: 44px;
     text-align: center;
 }
 
 h2 {
     font-family: 'Ysabeau Office', sans-serif;
-    font-size: 18px;
+    font-size: 28px;
     text-align: center;
-}
 
-h3 {
-    font-family: 'Ysabeau Office', sans-serif;
-    font-size: 18px;
-    text-align: center;
-}
-
-h4 {
-    font-family: 'Ysabeau Office', sans-serif;
-    font-size: 18px;
-    text-align: center;
 }
 
 #wrapper {
@@ -60,7 +49,7 @@ h4 {
     background: #FFA70F;
     border-radius: 20px;
     margin: 4px;
-    padding-bottom: 8rem;
+    padding-bottom: 10rem;
     text-align: center;
     font-size: 44px;
     font-weight: 980;
@@ -68,24 +57,37 @@ h4 {
 
 #navigationwrap {
     width: 1000px;
-    float: left;
+    float: center;
     margin: 0 auto;
-    display: flex;
     justify-content: center;
+    list-style: none;
+    padding-bottom: 2rem;
 }
 
-#navigation {
-    height: 40px;
-    background: #4AB7F7;
-    border-radius: 10px;
-    margin: 5px;
-    font-size: 12px;
-    font-weight: 570;
+#navigation ul {
+    height: 50px;
+    border-radius: 15px;
+    font-size: 14px;
+    font-weight: 630;
     width: 100%;
-    list-style-type: none;
-    position: fixed;
-    float: center;
-       
+    padding-bottom: 1rem;
+    padding-top: 1rem;      
+}
+
+#navigation li {
+    display: inline-block;
+    color: white;
+}
+
+#navigation a {
+    width: 1000px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    align-items: center;
+    background-color: black;
+    border: black solid;
 }
 
 a:link {
@@ -105,11 +107,11 @@ a:active {
 }
 
 a:hover {
-  background-color: yellow;
+  background-color: whitesmoke;
 }
 
 #contentwrap {
-    width: 850px;
+    width: 1000px;
     float: left;
     margin: 0 auto;
 }
@@ -122,69 +124,63 @@ a:hover {
     position: center;
     padding-left: 1rem;
     font-size: 24px;
+    padding-top: 2rem;
 }
 
-#leftcolumnwrap {
-    width: 150px;
-    float: left;
-    margin: 0 auto;
-}
-
-#leftcolumn {
-    background: none;
-    border-radius: 6px;
-    margin: 1px;
-    padding-top: 1.5rem;
-    font-size: 16px;
-
-}
 
 #p-one-wrap {
-    width: 850px;
+    width: 1000px;
     float: center;
     margin: 0 auto;
+    padding-top: 2rem;
 }
 
 #p-one {
     background: #FFA70F;
-    border-radius: 12px;
-    margin: 5px;
+    border-radius: 0px;
+    margin: 0px;
     float: center;
-    width: 825px;
-    line-height: 20px;
+    width: 100%;
+    line-height: 10px;
     display: inline-flex;
-    font-size: 24px
+    font-size: 18px
 }
-
 
 #h-wrap {
-width: 1000px;
-    float: center;
+    width: 1000px;
+    float: left;
     margin: 0 auto;
 }
+
 
 #about-header {
 height: 44px;
     background: #FFA70F;
     border-radius: 20px;
     margin: 4px;
-    padding-bottom: 8rem;
+    padding-bottom: 10rem;
     text-align: center;
     font-size: 44px;
     font-weight: 980;
     float: center;
 }
-#sidecolumnwrap {
-    width: 150px;
-    float: left;
-    margin: 0 auto;
+
+#text {
+text-align: justify;
 }
 
-#sidecolumn {
-    background: #none;
-    border-radius: 6px;
-    margin: 1px;
-    padding-top: 1.5rem;
-    font-size: 16px;
-    
+#bouncer {
+float: left;
+padding: 1rem;
+
+}
+
+#tshirt {
+float: right;
+padding: 1rem;
+}
+
+#candle {
+float: left;
+padding: 1rem;
 }
