@@ -40,14 +40,13 @@ h1 {
 }
 
 #header {
-    height: 30px;
+    height: 44px;
     background: #FFA70F;
-    border-radius: 24px;
+    border-radius: 20px;
     margin: 4px;
-    padding-bottom: 7rem;
-    padding-top: 1rem;
+    padding-bottom: 8rem;
     text-align: center;
-    font-size: 30px;
+    font-size: 44px;
     font-weight: 980;
 }
 
@@ -61,7 +60,6 @@ h1 {
     height: 40px;
     background: #FFA70F;
     border-radius: 10px;
-    border: 1px solid #ebb81f;
     margin: 5px;
     text-align: left;
     font-size: 12px;
@@ -150,14 +148,13 @@ width: 1000px;
 }
 
 #about-header {
-height: 30px;
+height: 44px;
     background: #FFA70F;
-    border-radius: 24px;
+    border-radius: 20px;
     margin: 4px;
-    padding-bottom: 7rem;
-    padding-top: 1rem;
+    padding-bottom: 8rem;
     text-align: center;
-    font-size: 30px;
+    font-size: 44px;
     font-weight: 980;
     float: center;
 }
